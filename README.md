@@ -1,6 +1,6 @@
 # node
 Taiko
-image
+
 
 Requirements:
 
@@ -54,13 +54,13 @@ in this section Metamask 0x Wallet Address will be L2_SUGGESTED_FEE_RECIPIENT=
 
 CTRL + X + Y
 
-image
+
 
 Run node:
 
 docker compose up 
 
 Your Node is running:
-image
+
 
 No incentive announcement yet
