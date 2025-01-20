@@ -60,7 +60,4 @@ Run node:
 
 docker compose up 
 
-Your Node is running:
-
-
-No incentive announcement yet
+Token airdrop done
